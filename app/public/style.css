@@ -1,0 +1,33 @@
+.btn-primary {
+    color: #fff;
+    background-color: blueviolet;
+    border-color: papayawhip;
+}
+
+
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 6px;
+}
+
+
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: papayawhip;
+    background-color: rgb(46, 24, 24);
+}
+
+div {
+    display: block;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: papayawhip;
+    background-color: rgb(12, 11, 11);
+}
